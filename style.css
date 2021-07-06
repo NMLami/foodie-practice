@@ -52,10 +52,6 @@ section{
     margin-bottom: 150px;
     border-radius: 20px;
     box-shadow: 0 4px 4px 0;
-
-    
-    
-    
 }
 .oneThird-width img{
     width: 50%;
@@ -81,9 +77,7 @@ section{
     color:white;
     font-weight: 700;
     padding: 10px 40px;
-    border-radius: 500px;
-    
-
+    border-radius: 500px;  
 }
 .top-banner{
     background-image: url(./images/shapes/7.png);
@@ -95,8 +89,7 @@ section{
 }
 
 #img-pad-left{
-    padding-left: 140px;
-    
+    padding-left: 140px;  
 }
 #longDown-pad{
     padding-top: 60px;
